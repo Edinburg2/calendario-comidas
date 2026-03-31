@@ -1,0 +1,43 @@
+{
+  "month": "2026-04",
+  "days": [
+    { "date": "2026-04-01", "dayName": "Miércoles", "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-02", "dayName": "Jueves",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-03", "dayName": "Viernes",  "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-04", "dayName": "Sábado",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-05", "dayName": "Domingo",  "disabled": false, "elders": null, "hermanas": null },
+
+    { "date": "2026-04-06", "dayName": "Lunes",    "disabled": true,  "elders": null, "hermanas": null },
+
+    { "date": "2026-04-07", "dayName": "Martes",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-08", "dayName": "Miércoles","disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-09", "dayName": "Jueves",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-10", "dayName": "Viernes",  "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-11", "dayName": "Sábado",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-12", "dayName": "Domingo",  "disabled": false, "elders": null, "hermanas": null },
+
+    { "date": "2026-04-13", "dayName": "Lunes",    "disabled": true,  "elders": null, "hermanas": null },
+
+    { "date": "2026-04-14", "dayName": "Martes",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-15", "dayName": "Miércoles","disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-16", "dayName": "Jueves",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-17", "dayName": "Viernes",  "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-18", "dayName": "Sábado",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-19", "dayName": "Domingo",  "disabled": false, "elders": null, "hermanas": null },
+
+    { "date": "2026-04-20", "dayName": "Lunes",    "disabled": true,  "elders": null, "hermanas": null },
+
+    { "date": "2026-04-21", "dayName": "Martes",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-22", "dayName": "Miércoles","disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-23", "dayName": "Jueves",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-24", "dayName": "Viernes",  "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-25", "dayName": "Sábado",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-26", "dayName": "Domingo",  "disabled": false, "elders": null, "hermanas": null },
+
+    { "date": "2026-04-27", "dayName": "Lunes",    "disabled": true,  "elders": null, "hermanas": null },
+
+    { "date": "2026-04-28", "dayName": "Martes",   "disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-29", "dayName": "Miércoles","disabled": false, "elders": null, "hermanas": null },
+    { "date": "2026-04-30", "dayName": "Jueves",   "disabled": false, "elders": null, "hermanas": null }
+  ]
+}
