@@ -1,11 +1,44 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
   <meta charset="UTF-8">
   <title>Calendario Misional</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
   <h1>Calendario Misional</h1>
-  <p>La página está funcionando.</p>
+
+  <!-- Navigation -->
+  <div class="nav">
+    <button id="viewList">Vista de Lista</button>
+    <button id="viewCalendar">Vista de Calendario</button>
+  </div>
+
+  <!-- List View -->
+  <div id="listView"></div>
+
+  <!-- Calendar View -->
+  <div id="calendarView"></div>
+
+  <!-- Signup Modal -->
+  <div id="signupModal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <h2>Apuntarse</h2>
+      <label>Nombre de la familia:</label>
+      <input id="famName" type="text">
+
+      <label>Dirección:</label>
+      <input id="famAddress" type="text">
+
+      <label>Número de contacto:</label>
+      <input id="famPhone" type="text">
+
+      <button id="saveSignup">Guardar</button>
+      <button id="closeModal">Cancelar</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
 </body>
 </html>
